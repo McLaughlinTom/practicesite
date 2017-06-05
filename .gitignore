@@ -5,3 +5,8 @@ virtualenv
 db.sqlite3
 /static
 .DS_Store
+Include
+Lib
+pip-selfcheck.json
+tcl
+Scripts
